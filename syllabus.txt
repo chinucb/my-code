@@ -1,0 +1,49 @@
+<Introduction of python.
+<Comment
+<Variables
+<Data Types
+<.int
+<.float
+<.string
+<.list
+<.tuple
+<.set
+<.frozenset
+<.dictionary
+<.complex
+<.boolean
+<casting
+<operator
+<input
+<conditional programming:
+<if else
+<nested if else
+<if elif else
+<ternary operator
+<loop
+   <for loop : (range),(iterable),(single for loop),(nested for loop),(pattern using single for loop),(list comprehension),(set comprehension),(tuple comprehension)
+<while loop : (single while loop),(nested while loop),(pattern using single loop),(pattern using while loop),
+<functions
+  <lambda fuction(annonymous function)
+  <def function
+  <decorator
+  <generator
+
+<package and module
+<multitasking
+<garbage collector(gc module)
+<oop:
+  <class(blueprint)
+  <object
+  <instance variable
+  <class variable
+  <inheritance
+  <polypmorphism
+  <encapsulation
+  <abstraction
+
+<data base:
+ sql:
+    mysql(crud)
+No Sql:
+ mongodb(crud)
